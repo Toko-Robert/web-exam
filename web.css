@@ -1,0 +1,142 @@
+body{
+    background: white;
+}
+text{
+ color: white;
+}
+.line1{
+    background-color: teal;
+    padding-left: 50px;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15PX;
+}
+.contactline{
+    background-color: rgb(20, 100, 175);
+    padding-left: 120px;
+    color: white;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.image{
+    width: 50%;
+   height: 200px;
+   margin-top: 0%;
+}
+
+
+.home{
+    background: rgb(92, 9, 3);   
+    padding: 15px; 
+    padding-left: 30px;
+    display: flex;
+     justify-content: space-between;
+}
+.tech{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.touch{
+    color: white;
+    padding-left: 700px;
+}
+.button {
+    background-color: #110e0e;
+    border: none;
+    color: white;
+    padding: 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 1px 2px;
+    border-radius: 30%;
+  }
+
+  .style{
+      color: white;
+      background-color: rgb(91, 91, 233);
+      text-align: center;
+      padding-bottom: 20PX;
+
+  }
+  .services{
+      text-decoration: underline;
+      padding-top: 10px;
+      padding-bottom: 7px;
+      
+  }
+
+.column{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.style1{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    padding-top: 10px;
+    padding-bottom: 19px;
+    font-size: 30px;
+    background-color: rgb(70, 11, 21);
+}
+.document{
+    text-align: center;
+    background-color: rgb(26, 21, 21);
+    padding-bottom: 15px;
+    padding-top: 15px;
+    
+    color: white;
+}
+
+
+
+.software{
+    background-color: rgb(123, 143, 209);
+    color: white;
+}
+
+
+
+.contact{
+    background-color: rgb(224, 115, 64);
+    color: white;
+    margin-bottom: 20px;
+    text-align: center;
+    width: fit-content;
+    display: inline-table;
+    padding: 10px;
+    border-radius: 30px;
+}
+ .contactus{
+    background-color: rgb(20, 100, 175);
+color: white;
+width: 100%;
+ }
+
+ .right{
+     background-color: rgb(34, 29, 29);
+     text-align: center;
+     color: white;
+     padding: 20px;
+     margin-top: 10px;
+ }
+
+
+
+ .web{
+     background-color: maroon;
+     color: white;
+ }
+
+
+
+ .more services{}
+
+ .line2{
+background-color: rgb(228, 155, 20);
+color: white;
+padding-left: 70PX;
+padding-top: 10PX;
+padding-bottom: 10PX;
+ }
